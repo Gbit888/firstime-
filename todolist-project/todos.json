@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "text": "imparare ad usare python per l'ia",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "text": "skillarmi con replit",
+    "completed": false,
+    "note": "progressione con to do list e chatbot.\r\nprossimo passo software su pc."
+  },
+  {
+    "id": 3,
+    "text": "fare la spesa",
+    "note": "",
+    "completed": false
+  }
+]
